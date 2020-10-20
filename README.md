@@ -36,6 +36,8 @@ PAN : Panama
 ### Assumptions:
 * Since only the destination country was to be inputted, the source country has been hard-coded to be USA. Code can be modified to accomodate if needed for a different source country.
 * Time complexity is not being deeply considered. Since the given scenario is simple, BFS should suffice.
+* When input destination is the same as source, source is printed i.e. for "USA", output is "USA".
+* The website is being hosted for free due to which the domain name is not custom.
 
 ### Resources used:
 * Stack Overflow
