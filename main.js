@@ -86,10 +86,6 @@ function solveBFS(g, src, dst){
 	}
 }
 
-function verifyInput(inp){
-
-}
-
 // Using the above implemented graph class.
 // Values are hard-coded for the sake of this assignment.
 var g = new Graph(10);
